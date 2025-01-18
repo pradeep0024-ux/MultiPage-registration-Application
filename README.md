@@ -1,2 +1,2 @@
 # Multipage registration application
-for use it click here https://pradeep0024-ux.github.io/MultiPage-registration-Application/
+ click here to check and use https://pradeep0024-ux.github.io/MultiPage-registration-Application/
